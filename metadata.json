@@ -1,0 +1,8 @@
+{
+  "name": "منصتي الذكية للأدوات الرقمية",
+  "description": "واجهة رقمية ملهمة تعرض أدوات الذكاء الاصطناعي والتعليم للمدرب سليم المختار بطابع مغربي أصيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
